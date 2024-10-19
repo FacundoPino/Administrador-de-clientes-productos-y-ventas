@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|c:\\users\\usuario\\documents\\proyectos github\\visual basic .net gestion comercio\\administrador-de-clientes-productos-y-ventas\\examen_vs\\vs.net_examen\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\agregarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\agregarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\administrarproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\administrarproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\administrarclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\administrarclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\modificarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\modificarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\venta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\venta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\vs.net_examen\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB28D7-2F59-4F9E-956B-824922F88BE1}|VS.Net_Examen\\VS.Net_Examen.vbproj|solutionrelative:vs.net_examen\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.vb",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Home.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\Home.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Home.vb",
+              "RelativeToolTip": "VS.Net_Examen\\Home.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-03T16:28:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\AgregarVentas.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\AgregarVentas.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\AgregarVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\AgregarVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-03T16:22:42.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministrarProductos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\AdministrarProductos.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\AdministrarProductos.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\AdministrarProductos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\AdministrarProductos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-03T16:22:41.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministrarClientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\AdministrarClientes.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\AdministrarClientes.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\AdministrarClientes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\AdministrarClientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-03T16:22:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModificarVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\ModificarVentas.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\ModificarVentas.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\ModificarVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\ModificarVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T01:05:37.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Producto.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\Producto.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\Producto.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\Producto.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T19:45:12.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Venta.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\Venta.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\Venta.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\Venta.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T19:28:41.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Cliente.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\Cliente.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\Cliente.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Prueba .NET\\Examen_VS\\VS.Net_Examen\\Cliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T19:26:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Home.vb",
+              "RelativeDocumentMoniker": "VS.Net_Examen\\Home.vb",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos GitHub\\Visual Basic .NET gestion comercio\\Administrador-de-clientes-productos-y-ventas\\Examen_VS\\VS.Net_Examen\\Home.vb [Dise\u00F1o]",
+              "RelativeToolTip": "VS.Net_Examen\\Home.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-27T18:59:11.598Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
